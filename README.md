@@ -2,6 +2,8 @@
 
 A browser-based 3D printable barcode carrier card generator for STL and 3MF export.
 
+![3D barcode carrier card preview](assets/preview.png)
+
 ## Features
 
 - Generate a printable carrier card from barcode text.
